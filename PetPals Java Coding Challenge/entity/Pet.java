@@ -1,7 +1,7 @@
 package com.hexaware.petPals.entity;
 
 public class Pet {
-	int PetId;
+private int PetId;
    private String name;
    private int age;
    private String breed;
